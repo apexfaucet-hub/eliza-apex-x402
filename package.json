@@ -1,0 +1,17 @@
+{
+  "name": "@apexfaucet/eliza-x402",
+  "version": "1.0.0",
+  "description": "ElizaOS plugin: unsigned Base or Solana tx check, and an x402 delivery score. Calls public HTTPS. Does not sign or pay.",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "commonjs",
+  "agentConfig": {
+    "pluginType": "elizaos:plugin:1.0.0",
+    "pluginParameters": {}
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/apexfaucet-hub/eliza-apex-x402"
+  },
+  "keywords": ["elizaos", "plugin", "x402", "solana", "base"]
+}
